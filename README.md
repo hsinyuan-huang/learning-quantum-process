@@ -2,7 +2,7 @@
 
 This open source implementation considers a machine learning (ML) algorithm for predicting output properties of an arbitrarily complex quantum process (the quantum process could even be an exponentially large quantum circuit!).
 
-We require `g++`, `python` version 3, and Jupyter Notebook (https://ipython.org/notebook.html).
+We require `g++` (C++ compiler), `python` version 3, and Jupyter Notebook (https://ipython.org/notebook.html).
 
 On the experimental side, we require **preparation of product states** and **single-qubit Pauli measurements** (i.e., each measurement measures all qubits in some Pauli X, Y, or Z- basis). This should be readily available in many quantum platforms.
 
